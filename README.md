@@ -40,8 +40,7 @@ Möchte man dem noch eine Information hierarchisch unterordnen, so geschieht die
 
 Die Kombination aus Zeitmarke und weiteren Informationen nennt man übrigens *Item*. Jedem Item darf höchstens eine URL zugeordnet werden. Diese gehört zwischen Vergleichszeichen hinter den Text:
 
-`1397473197 Schloss
-Neuschwanstein <https://de.wikipedia.org/wiki/Schloss\_Neuschwanstein\>`
+`1397473197 Schloss Neuschwanstein <https://de.wikipedia.org/wiki/Schloss\_Neuschwanstein\>`
 `- Hohenschwangau (wo das Schloss steht) <https://de.wikipedia.org/wiki/Hohenschwangau\>`
 
 Hinter einzelne Worte innerhalb eines Items kann kein Verweis gelegt werden. So was hier ist also *nicht* zulässig:

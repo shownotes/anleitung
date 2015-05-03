@@ -1,4 +1,4 @@
-# Shownotes – Die Anleitung
+# Anleitung
 
 ### Grundsätzliches
 

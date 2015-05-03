@@ -228,4 +228,4 @@ Sollte es bei Livesendungen zwischendurch mal Probleme mit dem Stream gegeben ha
 
 - Wrintheit (WRINT): Material bis zu den Fragen gehört üblicherweise in ein Kapitel, die weiteren Überschriften bestehen aus den Fragen. Bei zu langen Fragen wirklich nur den Kern hinschreiben (Beispiel: »Was haltet ihr davon?«), auch wenn dadurch Unklarheiten bleiben.
 
-[Erstellt von mathepauker, letzte Änderung: 28. März 2015]
+Erstellt von mathepauker

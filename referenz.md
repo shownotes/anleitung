@@ -13,7 +13,7 @@ Bitte keine URL-Shortener benutzen.
 |#v|#video|Video|1234567890 Ultraschall <youtu.be/Eb5o6WAQHQ4> #video|
 |#a|#audio|Audio|1234567890 Birds <https://de.wikipedia.org/wiki/Datei:Birds_Polyphonic.ogg> #audio|
 |#i|#image|Bilder|1234567890 Shownot.es Logo <https://shownot.es/images/shownotes-logo.ca414a62.svg> #image|
-|#tweet|#tweet|Tweet, Twitterkonto|1234567890 Holgi <https://twitter.com/holgi> #tweet|
-|#link|#link|Genannter URL|1234567890 Soundcloud <https://soundcloud.com/> #link|
+||#tweet|Tweet, Twitterkonto|1234567890 Holgi <https://twitter.com/holgi> #tweet|
+||#link|Genannter URL|1234567890 Soundcloud <https://soundcloud.com/> #link|
 |#r|#revision|Unfertige Zeile|1234567890 Kappitelname #c #r RECHTSCHREIBUNG PRÜFEN!|
 

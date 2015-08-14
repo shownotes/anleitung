@@ -1,6 +1,8 @@
-Zeitstempel erzeugen: '### ' (Dreimal Raute und dann ein Leerzeichen). Nur Kapitel müssen Zeitstempel enthalten.
-URLs müssen immer in spitze Klammern gesetzt werden. Keine anderen Anführungszeichen als die "Zollzeichen" verwenden.
-Bitte keine URL-Shortener benutzen.
+- Zeitstempel erzeugen: '### ' (Dreimal Raute und dann ein Leerzeichen).
+- Nur Kapitel müssen Zeitstempel enthalten.
+- URLs müssen immer in spitze Klammern gesetzt werden.
+- Keine anderen Anführungszeichen als die "Zollzeichen" verwenden.
+- Bitte keine URL-Shortener benutzen.
 
 | Tag | Kürzel | Beschreibung | Beispiel |
 |:-------|:----|:-------------|:---------|

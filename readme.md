@@ -80,6 +80,8 @@ Weiter darf ein Item durch mehrere sogenannte *Tags* kategorisiert werden (muss 
 
 Einige der Tags sind nur in Verbindung mit einer zusätzlich angegebenen URL sinnvoll.
 
+Die Tags sind nochmal in der [Referenz](https://github.com/shownotes/anleitung/blob/master/referenz.md) zusammengefasst.
+
 Mit Tags könnte unser Beispiel von oben so aussehen:
 
 `1397473197 Schloss Neuschwanstein <https://de.wikipedia.org/wiki/Schloss\_Neuschwanstein\> #g`

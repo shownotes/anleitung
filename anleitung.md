@@ -14,17 +14,17 @@ Diese Notizen können aus folgenden Gründen nützlich sein:
 
 ### Womit man schreiben kann
 
-Damit mehrere Autoren gleichzeitig an einem Dokument arbeiten können, .
-*******Aus dem Kalender der *Hörsuppe* (http://hoersuppe.de) übernimmt es alle Termine von Livesendungen und bietet dafür die schnelle Erstellung eines sogenannten *Pads* an.
-Um das zu tun und überhaupt mit dem ShowPad arbeiten zu können, ist ein Benutzerkonto notwendig.
-Das gibt es nach einer schnellen Registrierung kostenlos.
-Zu den dem System bekannten Podcast dürfen sich die Benutzer selber Pads erstellen.
-Jederzeit kann man sich aber vom Shownotes-Team welche für alles andere anlegen lassen.
-Dazu genügt es, eine Nachricht an intern@shownot.es zu schreiben oder im Chatraum (\#shownotes bei Freenode) vorbeizuschauen.
+Damit mehrere Autoren gleichzeitig an einem Dokument arbeiten können, muss der Podcast von allen Shownotern gleichzeitig gehört werden, beispielsweise wenn er Live oder als ReLive über Xenim ausgestrahlt wird.
+Die Startseite von shownot.es zeigt alle Live-Podcasts an, die im Kalender der *Hörsuppe* (http://hoersuppe.de) eingetragen sind und bietet dafür die schnelle Erstellung eines sogenannten *ShowPads* an.
 
-Das eben erwähnte Kernteam kümmert sich, nebenbei gesagt, hauptsächlich um Entwicklung, Administration und Betrieb.
+Um das zu tun und überhaupt mit dem ShowPad arbeiten zu können, ist ein Benutzerkonto notwendig.
+Das gibt es nach einer Registrierung kostenlos. Zu den dem System bekannten Podcasts dürfen sich die Benutzer selber Pads erstellen. Man sich jederzeit vom Shownotes-Team für noch nicht im Hörsuppenkalender vorhandene Podcasts ShowPads anlegen lassen. Dazu genügt es, im Chatraum (\#shownotes bei Freenode) vorbeizuschauen.
+
+Das eben erwähnte Kernteam kümmert sich, nebenbei gesagt, hauptsächlich um Entwicklung, Administration und Betrieb der Plattform.
 
 ### ShowPad in Kürze
+
+*****
 
 Egal ob man ein Pad selber angelegt oder eines angelegt bekommen hat – die Adresse ist von der Form https://shownot.es/podcastname/625, im Bearbeitungsmodus um ein /edit/ ergänzt. Ruft man ein jungfräuliches Pad auf, ist außer einer Zeilennummer noch nix zu sehen. Rechts gibt es einen Chat, mit dem sich die Schreiber während der Arbeit austauschen können.
 

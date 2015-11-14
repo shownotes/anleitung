@@ -15,7 +15,7 @@ Diese Notizen können aus folgenden Gründen nützlich sein:
 ### Womit man schreiben kann
 
 Damit mehrere Autoren gleichzeitig an einem Dokument arbeiten können, muss der Podcast von allen Shownotern gleichzeitig gehört werden, beispielsweise wenn er Live oder als ReLive über Xenim ausgestrahlt wird.
-Die Startseite von shownot.es zeigt alle Live-Podcasts an, die im Kalender der *Hörsuppe* (http://hoersuppe.de) eingetragen sind und bietet dafür die schnelle Erstellung eines sogenannten *ShowPads* an.
+Die Startseite von shownot.es zeigt alle Live-Podcasts an, die im Kalender der [Hörsuppe](http://hoersuppe.de) eingetragen sind und bietet dafür die schnelle Erstellung eines sogenannten *ShowPads* an.
 
 Um das zu tun und überhaupt mit dem ShowPad arbeiten zu können, ist ein Benutzerkonto notwendig.
 Das gibt es nach einer Registrierung kostenlos. Zu den dem System bekannten Podcasts dürfen sich die Benutzer selber Pads erstellen. Man sich jederzeit vom Shownotes-Team für noch nicht im Hörsuppenkalender vorhandene Podcasts ShowPads anlegen lassen. Dazu genügt es, im Chatraum (\#shownotes bei Freenode) vorbeizuschauen.

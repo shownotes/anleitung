@@ -96,7 +96,7 @@ Im Idealfall sind Shownotes ein von der Film- oder Tonquelle wenigstens halbwegs
 
 ### Sonderwünsche der Podcaster oder Regeln für gewisse Podcasts
 
-- NSFW (†), Freakshow: Anfangs- und Abschlussmusik bitte in eigene Kapitel packen, diese »Intro« bzw. »Outro« taufen.
+- NSFW, Freakshow: Anfangs- und Abschlussmusik bitte in eigene Kapitel packen, diese »Intro« bzw. »Outro« taufen.
 
 - Realitätsabgleich (WRINT): Nachrichtenüberschriften von Deutschlandfunk-Website kopieren (aber nicht URL hinter Überschriften legen), Wetter am Ende im Volltext übernehmen und nur mündlich vorgetragene Datumsnennung ergänzen, damit es ein echtes Zitat werden kann. Holgis Gesprächspartner darf man beim Eintragen der Podcaster ruhig Toby nennen.
 
